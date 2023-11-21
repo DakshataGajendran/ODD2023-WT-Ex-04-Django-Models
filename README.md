@@ -1,6 +1,6 @@
 # Ex-04-Django-Models
-Ex-04-Django-Models NAME : SANIYA G
-REG NO : 23002553
+Ex-04-Django-Models NAME : Dakshata G
+REG NO : 23013965
 DEPT : Artificial Intelligence and Machine Learning
 # AIM:
 To create a django model with five users.
